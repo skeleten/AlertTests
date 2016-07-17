@@ -1,0 +1,10 @@
+[package]
+name = "AlertsTest"
+version = "0.1.0"
+authors = ["skeleten <skele@ymail.com>"]
+
+[dependencies]
+nom = "1.2"
+chrono = "0.2"
+rss = "0.2"
+hyper = "*"
